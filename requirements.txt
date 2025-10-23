@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+statsmodels
+matplotlib
+wbgapi
+seaborn
